@@ -1,0 +1,16 @@
+
+{
+  "name": "XRA",
+  "full_name": "XRA - Abdullah Cross-Border Balance Report",
+  "ticker": "XRA",
+  "meaning": {
+    "X": "Cross-Border Non-National Crypto - عابرة للقارات",
+    "AB": "Abdullah Balances - أرصدة عبدالله",
+    "R": "Report - تقرير البلوكشين",
+    "XRA": "عملة عبدالله العابرة + تقرير الأرصدة"
+  },
+  "creator": "Abdullah AlMahdi",
+  "max_supply": 21000000,
+  "mining_reward": 100,
+  "bank_reference": "بنك القاسمي 100211421103003"
+}
