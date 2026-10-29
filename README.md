@@ -8,7 +8,7 @@
 
 - الاسم: XRA
 - الرمز: XRA
-- المؤسس: Abdullah AlMahdi - رق المهدي
+- المؤسس: Abdullah Mahdi - رق المهدي
 - إجمالي العرض: 21,000,000 XRA
 - موقع: https://rgalmahdi.blogspot.com
 - بنك القاسمي: 100211421103003
