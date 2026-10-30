@@ -3,43 +3,206 @@
   "ticker": "XRA",
   "meaning": "X=Cross-Border Non-National Crypto عابرة للقارات, AB=Abdullah Balances أرصدة عبدالله, R=Report",
   "website": "https://rgalmahdi.blogspot.com",
-  "creator": "Abdullah - رق المهدي",
-  "length": 2,
+  "creator": "Abdullah - رق المهدي - almahdimahdi700-oss",
+  "address": "XRAB34D950433C3E9DDC1BAC164501695",
+  "length": 12,
+  "total_mined": 1100,
+  "balance": {
+    "XRAB34D950433C3E9DDC1BAC164501695": 1100
+  },
+  "difficulty": 4,
   "chain": [
     {
       "index": 0,
       "previous_hash": "0",
-      "timestamp": 1793373322.334258,
+      "timestamp": 1793378381.9253585,
       "transactions": [
         {
-          "tx_id": "6bf35549bcd23bdbf79962a83fd04d38a21aa4b3e0b19f486167e1fc5aa7f357",
+          "tx_id": "76efd3e97d49eccaa7398cac3eac80aea31a183368fb4c5a869ff5e3b8f9dd9e",
           "sender": "GENESIS",
           "recipient": "XRA8ABDULLAHGENESIS",
           "amount": 0,
-          "timestamp": 1793373322.3342252
+          "timestamp": 1793378381.9253156
         }
       ],
       "nonce": 0,
-      "hash": "0c90887f55b4d480801b902cbab552e30cdcadec7f3ed1712a182718c4527bce"
+      "hash": "18174c7216898e4ae9826f01d984cd628697ef3302592772edb3512f27e9ba55"
     },
     {
       "index": 1,
-      "previous_hash": "0c90887f55b4d480801b902cbab552e30cdcadec7f3ed1712a182718c4527bce",
-      "timestamp": 1793373322.3342824,
+      "previous_hash": "18174c7216898e4ae9826f01d984cd628697ef3302592772edb3512f27e9ba55",
+      "timestamp": 1793378381.925386,
       "transactions": [
         {
-          "tx_id": "9818e932d32141b07ab2f649b243b931c7ad96b8420a2d65329a327a2771158b",
+          "tx_id": "c78e62cff67299e41826030884aff7a65f8ba26570730011287da2dad722e3ee",
           "sender": null,
           "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
           "amount": 100,
-          "timestamp": 1793373322.3342783
+          "timestamp": 1793378381.925382
         }
       ],
-      "nonce": 61855,
-      "hash": "0000ca460f907eb9452d314856b19e548d25e3d4e2eb2e6b22486d78942be85a"
+      "nonce": 42516,
+      "hash": "000063a79b6aea546f8a408150e556ae8a90fb8256a48e03867d2407397a36fa"
+    },
+    {
+      "index": 2,
+      "previous_hash": "000063a79b6aea546f8a408150e556ae8a90fb8256a48e03867d2407397a36fa",
+      "timestamp": 1793378382.1308534,
+      "transactions": [
+        {
+          "tx_id": "3329fb01f56b71688a20208c3f1d21cfb15be9618dc387a84ff11e8b108dc93e",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378382.130849
+        }
+      ],
+      "nonce": 67416,
+      "hash": "0000137ea7cad66e7e02a2ff65ad501a3e0fb7459fa95123e949e366043cdd8d"
+    },
+    {
+      "index": 3,
+      "previous_hash": "0000137ea7cad66e7e02a2ff65ad501a3e0fb7459fa95123e949e366043cdd8d",
+      "timestamp": 1793378382.4582834,
+      "transactions": [
+        {
+          "tx_id": "e63d431c0e1f60f64821d4f0fb4fd85aba34b6ceb5c597181f1ffce924c0bd7f",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378382.4582765
+        }
+      ],
+      "nonce": 83664,
+      "hash": "0000067554aa456299d817996fbcbc6735c143fe6d729ca05f0f2b125bbd8e29"
+    },
+    {
+      "index": 4,
+      "previous_hash": "0000067554aa456299d817996fbcbc6735c143fe6d729ca05f0f2b125bbd8e29",
+      "timestamp": 1793378382.8572922,
+      "transactions": [
+        {
+          "tx_id": "6950867380fdda836227cc2e018b282d9bba12501176993ce59d3bf5aac66c0e",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378382.857287
+        }
+      ],
+      "nonce": 34466,
+      "hash": "000074a596d845aa3f153ad470c4766f8e1cc18179a67947abf77932dd8dbd82"
+    },
+    {
+      "index": 5,
+      "previous_hash": "000074a596d845aa3f153ad470c4766f8e1cc18179a67947abf77932dd8dbd82",
+      "timestamp": 1793378383.0243087,
+      "transactions": [
+        {
+          "tx_id": "97b1b69779e0e6cdf9c0b4eb31fd975dbf1f1854879c7f76a77e8baea255d01c",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378383.0243049
+        }
+      ],
+      "nonce": 75242,
+      "hash": "000035bdf5238bbd65498e4832ee6c463f389a86ac9e54ee4c080933bd693d2b"
+    },
+    {
+      "index": 6,
+      "previous_hash": "000035bdf5238bbd65498e4832ee6c463f389a86ac9e54ee4c080933bd693d2b",
+      "timestamp": 1793378383.3822381,
+      "transactions": [
+        {
+          "tx_id": "f083576c354e04d73a834e09c376d174c5f7beb31afd0c8688acbf23fc5d4a38",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378383.3822334
+        }
+      ],
+      "nonce": 172479,
+      "hash": "0000b5a96eb29efe60d079ff8ce6a5426f07b317c49e7c99f126f89be27d33fa"
+    },
+    {
+      "index": 7,
+      "previous_hash": "0000b5a96eb29efe60d079ff8ce6a5426f07b317c49e7c99f126f89be27d33fa",
+      "timestamp": 1793378384.202228,
+      "transactions": [
+        {
+          "tx_id": "739370dacc866d81d6b82a8bfc96ee6d56d838051b60bf09b3b2e1c3574b0e90",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378384.2022216
+        }
+      ],
+      "nonce": 125791,
+      "hash": "00002b340dc8714d6b883c425ef3dbd3d15cffd0eb23288d67ed27bb11cd058d"
+    },
+    {
+      "index": 8,
+      "previous_hash": "00002b340dc8714d6b883c425ef3dbd3d15cffd0eb23288d67ed27bb11cd058d",
+      "timestamp": 1793378384.798531,
+      "transactions": [
+        {
+          "tx_id": "b38e26a6e383681e5a2fd13d9d74914913b4e9ea84686d5506f8991241a0f8f9",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378384.7985249
+        }
+      ],
+      "nonce": 76264,
+      "hash": "00007a09b5718e887cf08f101cbfa29e99165c3b181ea43013b06039d4f6179a"
+    },
+    {
+      "index": 9,
+      "previous_hash": "00007a09b5718e887cf08f101cbfa29e99165c3b181ea43013b06039d4f6179a",
+      "timestamp": 1793378385.159225,
+      "transactions": [
+        {
+          "tx_id": "efcd2588ee8d548ffb5f84d3dae5b905763778fdaeeaabde7a9b78137c06464c",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378385.1592185
+        }
+      ],
+      "nonce": 114190,
+      "hash": "0000234d1e6489b34782e06e14dc88a4330db5e9ff91ed45af8c35f614b665a0"
+    },
+    {
+      "index": 10,
+      "previous_hash": "0000234d1e6489b34782e06e14dc88a4330db5e9ff91ed45af8c35f614b665a0",
+      "timestamp": 1793378385.70032,
+      "transactions": [
+        {
+          "tx_id": "3ab93034b04a66e3ef61bd39223fc8bffd5fa5a0438e5c021d5c64519ab16a81",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378385.7003133
+        }
+      ],
+      "nonce": 24257,
+      "hash": "00004dc3e1f238f0e428e34fbf876b2b2dba06d6af33f20bc64c7bb2f62230c5"
+    },
+    {
+      "index": 11,
+      "previous_hash": "00004dc3e1f238f0e428e34fbf876b2b2dba06d6af33f20bc64c7bb2f62230c5",
+      "timestamp": 1793378385.8163087,
+      "transactions": [
+        {
+          "tx_id": "137716c7bb971ec60a18802f3ad2b0a16b84cdbdd3c5993680966aabcc8f3250",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793378385.816304
+        }
+      ],
+      "nonce": 33122,
+      "hash": "00001e16c84df78c2d356db724b758824f9a74f0290c1b27fddc36465c26f77a"
     }
-  ],
-  "balances": {
-    "XRAB34D950433C3E9DDC1BAC164501695": 100
-  }
+  ]
 }
