@@ -1,0 +1,7 @@
+Address: XRAB34D950433C3E9DDC1BAC164501695
+Private Key: d918b47bd80407c6e9ebcccd93c0b9149bf570493247311fb02a6dccaf736493
+Balance: 100 XRA
+Block Hash: 0000ca460f907eb9452d314856b19e548d25e3d4e2eb2e6b22486d78942be85a
+Ticker: XRA
+Meaning: X=Cross-Border Non-National Crypto عابرة للقارات, AB=Abdullah Balances, R=Report
+Website: https://rgalmahdi.blogspot.com

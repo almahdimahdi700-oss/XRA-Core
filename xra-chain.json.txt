@@ -1,0 +1,45 @@
+{
+  "name": "XRA",
+  "ticker": "XRA",
+  "meaning": "X=Cross-Border Non-National Crypto عابرة للقارات, AB=Abdullah Balances أرصدة عبدالله, R=Report",
+  "website": "https://rgalmahdi.blogspot.com",
+  "creator": "Abdullah - رق المهدي",
+  "length": 2,
+  "chain": [
+    {
+      "index": 0,
+      "previous_hash": "0",
+      "timestamp": 1793373322.334258,
+      "transactions": [
+        {
+          "tx_id": "6bf35549bcd23bdbf79962a83fd04d38a21aa4b3e0b19f486167e1fc5aa7f357",
+          "sender": "GENESIS",
+          "recipient": "XRA8ABDULLAHGENESIS",
+          "amount": 0,
+          "timestamp": 1793373322.3342252
+        }
+      ],
+      "nonce": 0,
+      "hash": "0c90887f55b4d480801b902cbab552e30cdcadec7f3ed1712a182718c4527bce"
+    },
+    {
+      "index": 1,
+      "previous_hash": "0c90887f55b4d480801b902cbab552e30cdcadec7f3ed1712a182718c4527bce",
+      "timestamp": 1793373322.3342824,
+      "transactions": [
+        {
+          "tx_id": "9818e932d32141b07ab2f649b243b931c7ad96b8420a2d65329a327a2771158b",
+          "sender": null,
+          "recipient": "XRAB34D950433C3E9DDC1BAC164501695",
+          "amount": 100,
+          "timestamp": 1793373322.3342783
+        }
+      ],
+      "nonce": 61855,
+      "hash": "0000ca460f907eb9452d314856b19e548d25e3d4e2eb2e6b22486d78942be85a"
+    }
+  ],
+  "balances": {
+    "XRAB34D950433C3E9DDC1BAC164501695": 100
+  }
+}
